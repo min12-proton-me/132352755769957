@@ -9,6 +9,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/min12-proton-me/13235
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/min12-proton-me/132352755769957/refs/heads/main/asylum-cry-made.lua"))()
 ```
-
-
-Sorry [USERCHATGPT](https://scriptblox.com/u/USERCHATGPT)
